@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mcodt1702/kholsen.git/static/css/main.88e3b04a.chunk.css",
+    "main.js": "/mcodt1702/kholsen.git/static/js/main.22adc45a.chunk.js",
+    "main.js.map": "/mcodt1702/kholsen.git/static/js/main.22adc45a.chunk.js.map",
+    "runtime-main.js": "/mcodt1702/kholsen.git/static/js/runtime-main.0c0012d3.js",
+    "runtime-main.js.map": "/mcodt1702/kholsen.git/static/js/runtime-main.0c0012d3.js.map",
+    "static/js/2.282d5f1f.chunk.js": "/mcodt1702/kholsen.git/static/js/2.282d5f1f.chunk.js",
+    "static/js/2.282d5f1f.chunk.js.map": "/mcodt1702/kholsen.git/static/js/2.282d5f1f.chunk.js.map",
+    "index.html": "/mcodt1702/kholsen.git/index.html",
+    "precache-manifest.3d1569226aa2880868f6d0072618a221.js": "/mcodt1702/kholsen.git/precache-manifest.3d1569226aa2880868f6d0072618a221.js",
+    "service-worker.js": "/mcodt1702/kholsen.git/service-worker.js",
+    "static/css/main.88e3b04a.chunk.css.map": "/mcodt1702/kholsen.git/static/css/main.88e3b04a.chunk.css.map",
+    "static/js/2.282d5f1f.chunk.js.LICENSE.txt": "/mcodt1702/kholsen.git/static/js/2.282d5f1f.chunk.js.LICENSE.txt",
+    "static/media/jarblue.jpg": "/mcodt1702/kholsen.git/static/media/jarblue.50d82884.jpg",
+    "static/media/logo-kholsen1.png": "/mcodt1702/kholsen.git/static/media/logo-kholsen1.7d1476c5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c0012d3.js",
+    "static/js/2.282d5f1f.chunk.js",
+    "static/css/main.88e3b04a.chunk.css",
+    "static/js/main.22adc45a.chunk.js"
+  ]
+}
