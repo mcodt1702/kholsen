@@ -1,0 +1,13 @@
+.nosotros {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.nosotros p {
+  margin: 20px 0;
+}
+
+img.chemImage {
+  width: 700px;
+  height: auto;
+}
