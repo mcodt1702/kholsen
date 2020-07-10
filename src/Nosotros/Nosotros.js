@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
+
 import "./Nosotros.css";
 
 export default function Nosotros() {

@@ -6,11 +6,9 @@ export default function Productos() {
   return (
     <div className="productosUl">
       <ul>
-        <li>Limpiadores</li>
-        <li>Detergentes</li>
-        <li>Desinfectantes</li>
-        <li>Cuidado de Manos</li>
-        <li>Furtas y Vegetales</li>
+        <Link to="/productos/limpiadores/">
+          <li>Limpiadores y Detergentes</li>
+        </Link>
       </ul>
     </div>
   );

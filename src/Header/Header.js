@@ -6,7 +6,7 @@ export default function Header() {
   return (
     <header>
       <div className="menBar">
-        <img src={require("../images/logo-kholsen1.png")} />
+        <img src={require("../images/logo-kholsen1.png")} alt="Kholsen Logo" />
         <ul className="menuButtons">
           <li>
             <Link to={"/"}>Nosotros</Link>
