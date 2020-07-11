@@ -5,6 +5,8 @@
 img {
   float: left;
   height: 100px;
+  margin-left: 30px;
+  margin-top: 30px;
 }
 
 .menuButtons {
@@ -14,6 +16,7 @@ img {
   cursor: pointer;
   padding: 30px;
   margin: 0px;
+  margin-top: 30px;
 }
 
 .menuButtons :hover {
