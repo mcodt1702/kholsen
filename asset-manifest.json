@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/kholsen/static/css/main.6d6f010f.chunk.css",
-    "main.js": "/kholsen/static/js/main.dca445a0.chunk.js",
-    "main.js.map": "/kholsen/static/js/main.dca445a0.chunk.js.map",
+    "main.css": "/kholsen/static/css/main.0a5aac81.chunk.css",
+    "main.js": "/kholsen/static/js/main.e4dc2c8a.chunk.js",
+    "main.js.map": "/kholsen/static/js/main.e4dc2c8a.chunk.js.map",
     "runtime-main.js": "/kholsen/static/js/runtime-main.ba87a30b.js",
     "runtime-main.js.map": "/kholsen/static/js/runtime-main.ba87a30b.js.map",
     "static/js/2.b051751d.chunk.js": "/kholsen/static/js/2.b051751d.chunk.js",
     "static/js/2.b051751d.chunk.js.map": "/kholsen/static/js/2.b051751d.chunk.js.map",
     "index.html": "/kholsen/index.html",
-    "precache-manifest.d2a76c60238abd8eb551fffd34ead1a6.js": "/kholsen/precache-manifest.d2a76c60238abd8eb551fffd34ead1a6.js",
+    "precache-manifest.7c12224bdd8b2b162e84b4b42883ed95.js": "/kholsen/precache-manifest.7c12224bdd8b2b162e84b4b42883ed95.js",
     "service-worker.js": "/kholsen/service-worker.js",
-    "static/css/main.6d6f010f.chunk.css.map": "/kholsen/static/css/main.6d6f010f.chunk.css.map",
+    "static/css/main.0a5aac81.chunk.css.map": "/kholsen/static/css/main.0a5aac81.chunk.css.map",
     "static/js/2.b051751d.chunk.js.LICENSE.txt": "/kholsen/static/js/2.b051751d.chunk.js.LICENSE.txt",
     "static/media/botle.jpg": "/kholsen/static/media/botle.bae1265a.jpg",
     "static/media/foodP.jpg": "/kholsen/static/media/foodP.cd3e094d.jpg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.ba87a30b.js",
     "static/js/2.b051751d.chunk.js",
-    "static/css/main.6d6f010f.chunk.css",
-    "static/js/main.dca445a0.chunk.js"
+    "static/css/main.0a5aac81.chunk.css",
+    "static/js/main.e4dc2c8a.chunk.js"
   ]
 }
