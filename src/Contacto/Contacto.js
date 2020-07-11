@@ -6,16 +6,18 @@ export default function Contacto() {
   return (
     <section>
       <div className="contacto">
-        {" "}
-        <h2>atencion.clientes@kholsen.com</h2>
-        <p>
-          +1 (52) 55-5840-3030 +1 (52) 55-5840-3030- ext.
-          <p>
-            Kholsen S.A. de C.V. Agustin Melgar 6, Barrio San Antonio,
-            Iztapalapa México D.F.C.P. 09900
-          </p>
-          atencion.clientes@kholsen.com
-        </p>
+        <img
+          className="contactUs"
+          src={require("../images/contact.jpg")}
+          alt="envelope telephone signs"
+        />
+        <h2>Email: info@kholsen.com</h2>
+        <>
+          Tel: (52) 55-5840-3030
+          <p>Kholsen S.A. de C.V. </p>
+          <p>Agustin Melgar 6, Barrio San Antonio</p>
+          <p>Iztapalapa México D.F.C.P. 09900</p>
+        </>
       </div>
     </section>
   );
