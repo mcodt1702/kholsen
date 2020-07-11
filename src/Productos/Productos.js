@@ -7,7 +7,10 @@ export default function Productos() {
     <div className="productosUl">
       <ul>
         <Link to="/productos/limpiadores/">
-          <li>Limpiadores y Detergentes</li>
+          <li>Alimentos Y Bebidas</li>
+        </Link>
+        <Link to="/productos/institucional/">
+          <li>Institucional</li>
         </Link>
       </ul>
     </div>

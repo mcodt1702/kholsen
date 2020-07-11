@@ -5,6 +5,11 @@ import "./Servicios.css";
 export default function Servicios() {
   return (
     <section className="servicios">
+      <img
+        className="chemImage"
+        src={require(".././images/handspray.jpg")}
+        alt="chemestry jar"
+      />
       <p>
         <ul>
           <li>Restaurantes</li>

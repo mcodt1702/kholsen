@@ -1,3 +1,44 @@
+.steelTank {
+  height: 400px;
+  padding-right: 20px;
+}
+
+.limpiadores ul {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+
 .limpiadores {
-  text-align: center;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bottle,
+.hands {
+  padding-right: 20px;
+  float: right;
+  margin-right: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 350px;
+  height: auto;
+}
+
+.milk {
+  float: right;
+  width: 450px;
+  height: auto;
+  margin-top: 30px;
+}
+
+.orange,
+.food {
+  float: left;
+  width: 450px;
+  height: auto;
+  margin-right: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
