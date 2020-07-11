@@ -33,16 +33,22 @@ export default function Nosotros() {
         que cierra el círculo de servicio que los clientes requieren. Kholsen se
         consolida con clientes de presencia mundial participando en la
         implementación de programas y proyectos meta, siendo así la compañía de
-        mayor grado de recomendación cliente – cliente. Kholsen actualmente
-        ofrece a sus clientes cautivos y potenciales experiencia probada,
-        productos altamente formulados, un servicio especializado con
-        capacitación al personal del cliente, seguimiento de este mismo e
-        investigación y desarrollo. Resaltando una de sus ventajas competitivas
-        es ofrecer productos de alta calidad y puntualidad, servicio continuo y
-        global, haciendo frente a las compañías transnacionales, participando en
-        la reducción de costos.
+        mayor grado de recomendación cliente – cliente.{" "}
+        <p>
+          Kholsen actualmente ofrece a sus clientes cautivos y potenciales
+          experiencia probada, productos altamente formulados, un servicio
+          especializado con capacitación al personal del cliente, seguimiento de
+          este mismo e investigación y desarrollo. Resaltando una de sus
+          ventajas competitivas es ofrecer productos de alta calidad y
+          puntualidad, servicio continuo y global, haciendo frente a las
+          compañías transnacionales, participando en la reducción de costos.
+        </p>
       </p>
-
+      <img
+        className="probe"
+        src={require("../images/probe.jpg")}
+        alt="chemestry jar"
+      />
       <p>
         Kholsen surge como una empresa joven en el año 2000 con la visión de
         ofrecer productos y servicios para la limpieza y desinfección en la

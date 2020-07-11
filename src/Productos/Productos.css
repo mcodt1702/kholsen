@@ -1,5 +1,7 @@
 .productosUl ul {
   list-style-type: none;
+
+  margin-left: 250px;
 }
 
 .productosUl li {
@@ -9,4 +11,5 @@
   margin: 15px;
   color: white;
   text-align: center;
+  width: 500px;
 }

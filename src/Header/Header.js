@@ -9,7 +9,7 @@ export default function Header() {
         <img src={require("../images/logo-kholsen1.png")} alt="Kholsen Logo" />
         <ul className="menuButtons">
           <li>
-            <Link to={"/"}>Nosotros</Link>
+            <Link to={"/kholsen"}>Nosotros</Link>
           </li>
           <li>
             <Link to={"/servicios"}>Servicios</Link>

@@ -1,4 +1,5 @@
 import React from "react";
+import "./Institucional.css";
 
 export default class Institucional extends React.Component {
   render() {

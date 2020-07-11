@@ -6,7 +6,7 @@ export default function Servicios() {
   return (
     <section className="servicios">
       <img
-        className="chemImage"
+        className="handSpray"
         src={require(".././images/handspray.jpg")}
         alt="chemestry jar"
       />

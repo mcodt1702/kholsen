@@ -21,7 +21,7 @@ export default class App extends React.Component {
     return (
       <Router>
         <Route path={"/"} component={Header}></Route>
-        <Route exact path={"/"} component={Nosotros}></Route>
+        <Route path={"/kholsen"} component={Nosotros}></Route>
         <Route path={"/servicios"} component={Servicios}></Route>
 
         <Route exact path={"/productos"} component={Productos}></Route>
