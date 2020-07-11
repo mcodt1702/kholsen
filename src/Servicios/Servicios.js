@@ -11,6 +11,7 @@ export default function Servicios() {
         alt="chemestry jar"
       />
       <p>
+        <h2>Servicios</h2>
         <ul>
           <li>Restaurantes</li>
           <li>Comedores Industriales</li>
