@@ -1,24 +1,31 @@
 {
   "files": {
-    "main.css": "/kholsen/static/css/main.88e3b04a.chunk.css",
-    "main.js": "/kholsen/static/js/main.22adc45a.chunk.js",
-    "main.js.map": "/kholsen/static/js/main.22adc45a.chunk.js.map",
+    "main.css": "/kholsen/static/css/main.c504fc38.chunk.css",
+    "main.js": "/kholsen/static/js/main.f8c1bc3e.chunk.js",
+    "main.js.map": "/kholsen/static/js/main.f8c1bc3e.chunk.js.map",
     "runtime-main.js": "/kholsen/static/js/runtime-main.ba87a30b.js",
     "runtime-main.js.map": "/kholsen/static/js/runtime-main.ba87a30b.js.map",
-    "static/js/2.282d5f1f.chunk.js": "/kholsen/static/js/2.282d5f1f.chunk.js",
-    "static/js/2.282d5f1f.chunk.js.map": "/kholsen/static/js/2.282d5f1f.chunk.js.map",
+    "static/js/2.b051751d.chunk.js": "/kholsen/static/js/2.b051751d.chunk.js",
+    "static/js/2.b051751d.chunk.js.map": "/kholsen/static/js/2.b051751d.chunk.js.map",
     "index.html": "/kholsen/index.html",
-    "precache-manifest.037a060174c86c0392805f683eff5288.js": "/kholsen/precache-manifest.037a060174c86c0392805f683eff5288.js",
+    "precache-manifest.b14dfe54d41bbe6917b0e4f8b56aabea.js": "/kholsen/precache-manifest.b14dfe54d41bbe6917b0e4f8b56aabea.js",
     "service-worker.js": "/kholsen/service-worker.js",
-    "static/css/main.88e3b04a.chunk.css.map": "/kholsen/static/css/main.88e3b04a.chunk.css.map",
-    "static/js/2.282d5f1f.chunk.js.LICENSE.txt": "/kholsen/static/js/2.282d5f1f.chunk.js.LICENSE.txt",
+    "static/css/main.c504fc38.chunk.css.map": "/kholsen/static/css/main.c504fc38.chunk.css.map",
+    "static/js/2.b051751d.chunk.js.LICENSE.txt": "/kholsen/static/js/2.b051751d.chunk.js.LICENSE.txt",
+    "static/media/botle.jpg": "/kholsen/static/media/botle.bae1265a.jpg",
+    "static/media/foodP.jpg": "/kholsen/static/media/foodP.cd3e094d.jpg",
+    "static/media/hands.jpg": "/kholsen/static/media/hands.b8d2ec0c.jpg",
+    "static/media/handspray.jpg": "/kholsen/static/media/handspray.6db54e96.jpg",
     "static/media/jarblue.jpg": "/kholsen/static/media/jarblue.50d82884.jpg",
-    "static/media/logo-kholsen1.png": "/kholsen/static/media/logo-kholsen1.7d1476c5.png"
+    "static/media/logo-kholsen1.png": "/kholsen/static/media/logo-kholsen1.7d1476c5.png",
+    "static/media/milktank.jpg": "/kholsen/static/media/milktank.a61b9a37.jpg",
+    "static/media/orange.jpg": "/kholsen/static/media/orange.9d1dd0b3.jpg",
+    "static/media/steelTank.jpeg": "/kholsen/static/media/steelTank.45a8ee9c.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.ba87a30b.js",
-    "static/js/2.282d5f1f.chunk.js",
-    "static/css/main.88e3b04a.chunk.css",
-    "static/js/main.22adc45a.chunk.js"
+    "static/js/2.b051751d.chunk.js",
+    "static/css/main.c504fc38.chunk.css",
+    "static/js/main.f8c1bc3e.chunk.js"
   ]
 }
