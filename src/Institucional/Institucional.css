@@ -3,3 +3,21 @@
   margin-left: auto;
   margin-right: auto;
 }
+.institucionales h2 {
+  text-align: center;
+  font-size: 30px;
+}
+.institucionales h3 {
+  font-size: 25px;
+  text-decoration: underline;
+  text-align: center;
+  margin-top: 80px;
+}
+
+.institucionales p {
+  padding: 35px;
+}
+
+.institucionales h4 {
+  color: darkblue;
+}
